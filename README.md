@@ -13,7 +13,7 @@
   <li>Step 8:- Connect to Master server <br />
       vagrant ssh kmaster
   </li>
-  <li>Step 9:- Verify the cluster is in ready State < br />
+  <li>Step 9:- Verify the cluster is in ready State <br />
       kubectl get nodes
    </li> 
 </ul>  
