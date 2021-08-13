@@ -15,5 +15,5 @@
   </li>
   <li>Step 9:- Verify the cluster is in ready State < br />
       kubectl get nodes
-   < /li> 
+   </li> 
 </ul>  
